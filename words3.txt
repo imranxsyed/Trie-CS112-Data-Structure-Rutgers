@@ -1,0 +1,16 @@
+15
+computerscience
+javaintro
+javadatastructure
+javaarchiture
+javadeveloping
+algebra
+linearalgebra
+linearoptimization
+calculus
+calculusadvance
+chemistry
+climatechange
+chemistryadvanc
+laborHistory
+laborHistoryworkingclass
